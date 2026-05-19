@@ -1,0 +1,9 @@
+Delivered-To: user@gmail.com
+Received: from secure-login-alert.xyz (185.234.219.12)
+by mx.google.com with ESMTPS id x7si1234567qkf.123.2026.05.17
+for <user@gmail.com>;
+Subject: Urgent Account Verification
+From: Security Team <support@secure-login-alert.xyz>
+To: user@gmail.com
+Date: Sun, 17 May 2026 10:15:22 +0000
+Message-ID: <12345@secure-login-alert.xyz>
