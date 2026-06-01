@@ -4,7 +4,6 @@ Phishing email investigation and cybersecurity awareness project using header an
 # Phishing Email Detection & Awareness System
 
 ## 📌 Overview
-This project was developed as part of the Cyber Security Internship at Future Interns.
 
 The project focuses on phishing email investigation, phishing indicator identification, email risk classification, and cybersecurity awareness reporting using SOC-style investigation techniques.
 
@@ -73,4 +72,4 @@ Through this project, I learned:
 # 👩‍💻 Author
 
 Harshini  
-Cyber Security Intern — Future Interns
+Cyber Security
